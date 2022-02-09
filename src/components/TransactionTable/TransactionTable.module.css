@@ -1,0 +1,26 @@
+.transactionTable {
+  width: 760px;
+  height: 38px;
+  left: 130px;
+  top: 324px;
+  background-color: #f5f6fb;
+  border-radius: 20px;
+}
+
+.table {
+  width: 760px;
+  height: 344px;
+  left: 130px;
+  top: 362px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 1.1;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #000000;
+}
