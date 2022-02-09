@@ -1,5 +1,6 @@
 <!-- # ![][2] -->
 # ![](https://raw.githubusercontent.com/Evgeniya-star-35/finally-react/main/src/images/title.png)
+:cake: :fork_and_knife: :pizza: :hamburger: :cocktail: :book: :palm_tree: :gift: :pill::books: :bicyclist: :car: :art: :necktie: :train: :airplane: :house: :hotel:
 
 <h2 align="center"><a  href="https://finally-react-project.netlify.app/">Application page </a></h2>
 <h2 align="center"><a  href="https://finally-node.herokuapp.com/api-docs/#/">API server</a></h2>
