@@ -1,12 +1,11 @@
-<!-- # ![][2] -->
-# ![](https://raw.githubusercontent.com/Evgeniya-star-35/finally-react/main/src/images/title.png)
+
+![](https://cdn-icons.flaticon.com/png/128/3639/premium/3639404.png?token=exp=1644439860~hmac=45753d5359f7cd193c60cf83487874df) ![](https://raw.githubusercontent.com/Evgeniya-star-35/finally-react/main/src/images/title.png)
+
 :cake: :fork_and_knife: :pizza: :hamburger: :cocktail: :book: :palm_tree: :gift: :pill::books: :bicyclist: :car: :art: :necktie: :train: :airplane: :house: :hotel:
 
 <h2 align="center"><a  href="https://finally-react-project.netlify.app/">Application page </a></h2>
 <h2 align="center"><a  href="https://finally-node.herokuapp.com/api-docs/#/">API server</a></h2>
 
-<img src="./readme_assets/1.png" width="100%">
-<p align="center">
 <img src="https://img.shields.io/badge/React-%5E17.0.2-%2333E0FF"/>
 <img src="https://img.shields.io/badge/Redux-%5E4.1.0-%236944E7"/>
 <img src="https://img.shields.io/badge/Css-Modules-%23EC83D4"/>
