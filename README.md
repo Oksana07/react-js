@@ -34,6 +34,7 @@ ________
  [<img src="https://img.shields.io/badge/-Kapysta-green"/>](https://finally-react-project.netlify.app/) is the Web app for calculating your finances.
 
 The Web App provides the following functions:
+
 :hourglass: Keep track of your expenses and income.
 
 :email: User authorization via Gmail.
