@@ -47,33 +47,108 @@ The Web App provides the following functions:
 _______________
 
  ### Team lead - [<img src="https://img.shields.io/badge/-Evgeniya Bayda-orange "/>](https://github.com/Evgeniya-star-35/) 
- * Frontend
+
+* Error correction, conflict resolution when merging branches into a master, technical and moral support of project team members 24/7.
+
+* Deployed server (error detection, CORS, module connection structure.
+
+ * The layout and styles of the "Current Period" component, when you click on the arrows, the moon changes in both directions.
+
+* Implemented by pressing the "Enter" data from the inputs are written to the table and sent back, and the inputs are cleared.
+
+* Implemented a pop-up list of product categories.
+
+* Simulator simulator when you press Exit.
+
+* Implemented a pop-up list of product categories.
+
 ### Scrum master - [<img src="https://img.shields.io/badge/-Petro Davydov-black "/>](https://github.com/petroDavydov/) 
-* Backend
 
-### Create endpoint documentation swagger-ui - [<img src="https://img.shields.io/badge/-Nikolai Grebenyuk-blue "/>](https://github.com/Nikolayhous/)
-* Backend
+* Assistance to team members, support for Trello, organization of daily meetings.
 
-###  [<img src="https://img.shields.io/badge/-Kovalenko Anna-red"/>](https://github.com/Kovganna/)
-* Backend
-###  [<img src="https://img.shields.io/badge/-Vlad Gonchar-violet"/>](https://github.com/EclipsoZhuk/)
+* Implemented deletion of endpoint transactions.
 
-* Backend
-### [<img src="https://img.shields.io/badge/-Jane Babina-yellow "/>](https://github.com/Kelenella/)
-* Frontend
+* Deployed server (error detection, CORS, module connection structure.
 
-###  [<img src="https://img.shields.io/badge/-Tatiana Blizniukova-green "/>](https://github.com/Tatiana37/)
-* Frontend
-###  [<img src="https://img.shields.io/badge/-Tanya Melnyk-blue"/>](https://github.com/tanyamelnyk19/)
-* Frontend
-### [<img src="https://img.shields.io/badge/-Mariia Melychyn-pink "/>](https://github.com/MariiaMelychyn/)
-* Frontend
+* The layout and styles of the "Current Period" component, when you click on the arrows, the moon should change in both directions.
 
-### [<img src="https://img.shields.io/badge/-Marta Pryiom-brown "/>](https://github.com/marta-pryiom/)
-* Frontend
+### Backend - [<img src="https://img.shields.io/badge/-Nikolai Grebenyuk-blue "/>](https://github.com/Nikolayhous/)
 
-### [<img src="https://img.shields.io/badge/-Oksana Petryshyn-gray "/>](https://github.com/Oksana07/)
+* Implemented deletion of endpoint transactions.
 
+* Created swagger-ui endpoint documentation.
 
+* Implemented an endpoint of detailed information on costs and revenues for a specific month and year.
 
+* Implemented adding the value of the endpoint, the level of authorization.
 
+* addCard + 1. User model.
+
+* End-user balance and end-user balance updates have been introduced.
+
+### Backend - [<img src="https://img.shields.io/badge/-Kovalenko Anna-red"/>](https://github.com/Kovganna/)
+
+* Implemented an endpoint.
+
+* Implemented an endpoint of detailed information on costs and revenues for a specific month and year.
+
+* Implemented endpoint authentication.
+
+### Backend - [<img src="https://img.shields.io/badge/-Vlad Gonchar-violet"/>](https://github.com/EclipsoZhuk/)
+
+* The layout and styles of the Current Period component, when you click on the arrows, the moon changes in both directions.
+
+* Implemented an endpoint.
+
+* Enter detailed endpoint information on costs and revenues for a specific month and year.
+
+* Implemented endpoint authentication.
+### Frontend - [<img src="https://img.shields.io/badge/-Jane Babina-yellow "/>](https://github.com/Kelenella/)
+
+* Implemented button "Enter" input data is written to the table and sent back, and inputs are cleared.
+
+* Added a pop-up window for product categories.
+
+* Login and exit markup and heading styles (phone, tablet, and computer).
+
+* Clicking the "Clear" button clears the entered data.
+
+* A universal modal output window has been created.
+
+* Implemented the logic of exiting the profile by clicking "Exit".
+
+* Added a popup window for product categories.
+
+* Layout and styles of back button components.
+
+### Frontend - [<img src="https://img.shields.io/badge/-Tatiana Blizniukova-green "/>](https://github.com/Tatiana37/)
+  *  Summary Layout and Styles
+
+### Frontend - [<img src="https://img.shields.io/badge/-Tanya Melnyk-blue"/>](https://github.com/tanyamelnyk19/)
+
+* Cost and Revenue Page Layouts and Styles (Phone, Tablet, Computer)
+
+* Cost and Revenue Layouts and Styles (Phone, Tablet, Computer).
+
+* Implemented "Go to Reports" button, you will go to the page "Cost Reports".
+
+### Frontend - [<img src="https://img.shields.io/badge/-Mariia Melychyn-pink "/>](https://github.com/MariiaMelychyn/)
+
+* Login and registration window layout and styles (phone, tablet and desktop).
+
+* Google login / signup feature.
+
+* Functionality of sending a request for user login / registration.
+
+### Frontend - [<img src="https://img.shields.io/badge/-Marta Pryiom-brown "/>](https://github.com/marta-pryiom/)
+
+* Symbols and background for all pages when the user logs in and out of the program (phone, tablet and computer).
+
+* Component markup and styles "Balance" (phone, tablet and desktop)
+
+* Implemented a modal window on zero balance
+
+### Frontend - [<img src="https://img.shields.io/badge/-Oksana Petryshyn-gray "/>](https://github.com/Oksana07/)
+
+* Summary Layout and Styles.
+* Writing documentation readme on markdown.
