@@ -31,7 +31,7 @@ and
 
 ________
 
-### Backend [<img src="https://img.shields.io/badge/-Nikolai Grebenyuk-white "/>](https://github.com/Nikolayhous/)
+### Backend [<img src="https://img.shields.io/badge/-Nikolai Grebenyuk-blue "/>](https://github.com/Nikolayhous/)
 
 
 ### Backend [<img src="https://img.shields.io/badge/-Petro Davydov-black "/>](https://github.com/petroDavydov/)
