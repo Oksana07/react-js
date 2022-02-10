@@ -31,7 +31,28 @@ and
 
 ________
 
-[<img src="https://img.shields.io/badge/-Nikolai Grebenyuk-green"/>](https://github.com/Nikolayhous)
+### Backend [<img src="https://img.shields.io/badge/-Nikolai Grebenyuk-white "/>](https://github.com/Nikolayhous/)
+
+
+### Backend [<img src="https://img.shields.io/badge/-Petro Davydov-black "/>](https://github.com/petroDavydov/)
+
+### Backend [<img src="https://img.shields.io/badge/-Kovalenko Anna-red"/>](https://github.com/Kovganna/)
+
+### Backend [<img src="https://img.shields.io/badge/-Vlad Gonchar-violet"/>](https://github.com/EclipsoZhuk/)
+
+### Frontend [<img src="https://img.shields.io/badge/-Jane Babina-yellow "/>](https://github.com/Kelenella/)
+
+### Frontend [<img src="https://img.shields.io/badge/-Evgeniya Bayda-orange "/>](https://github.com/Evgeniya-star-35/)
+
+### Frontend [<img src="https://img.shields.io/badge/-Tatiana Blizniukova-green "/>](https://github.com/Tatiana37/)
+
+### Frontend [<img src="https://img.shields.io/badge/-Tanya Melnyk-blue"/>](https://github.com/tanyamelnyk19/)
+
+### Frontend [<img src="https://img.shields.io/badge/-Mariia Melychyn-pink "/>](https://github.com/MariiaMelychyn/)
+
+### Frontend [<img src="https://img.shields.io/badge/-Marta Pryiom-brown "/>](https://github.com/marta-pryiom/)
+
+### Frontend [<img src="https://img.shields.io/badge/-Oksana Petryshyn-gray "/>](https://github.com/Oksana07/)
 
 
 
