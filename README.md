@@ -1,7 +1,7 @@
 
 ![](https://cdn-icons.flaticon.com/png/128/3639/premium/3639404.png?token=exp=1644439860~hmac=45753d5359f7cd193c60cf83487874df) ![](https://raw.githubusercontent.com/Evgeniya-star-35/finally-react/main/src/images/title.png)
 
-:cake: :fork_and_knife: :pizza: :hamburger: :cocktail: :book: :palm_tree: :gift: :pill::books: :bicyclist: :car: :art: :necktie: :train: :airplane: :house: :hotel:
+:cake: :fork_and_knife: :pizza: :hamburger: :cocktail: :book: :palm_tree: :gift: :pill::books: :bicyclist: :car: :art: :necktie: :train: :airplane: :house: :hotel: :scissors: :soccer: :credit_card: :dollar: :euro: :wrench: :computer: :cake: :pizza: :hamburger: :palm_tree::scissors: :car: :bicyclist: 
 
 <h2 align="center"><a  href="https://finally-react-project.netlify.app/">Application page </a></h2>
 <h2 align="center"><a  href="https://finally-node.herokuapp.com/api-docs/#/">API server</a></h2>
