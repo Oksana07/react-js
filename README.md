@@ -31,7 +31,7 @@ and
 
 ________
 
-![Custom badge](https://img.shields.io/endpoint?color=yellow&label=Nikolai%20Grebenyuk&logo=Nikolayhous&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com%2FNikolayhous)
+[<img src="https://img.shields.io/badge/-Nikolai Grebenyuk-green"/>](https://github.com/Nikolayhous)
 
 
 
