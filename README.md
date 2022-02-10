@@ -30,29 +30,47 @@ and
 [<img src="https://img.shields.io/badge/-MongoDB-green"/>](https://www.mongodb.com/)
 
 ________
+## Features of Kapu$ta app
+ [<img src="https://img.shields.io/badge/-Kapysta-green"/>](https://finally-react-project.netlify.app/) is the Web app for calculating your finances.
 
-### Backend [<img src="https://img.shields.io/badge/-Nikolai Grebenyuk-blue "/>](https://github.com/Nikolayhous/)
+The Web App provides the following functions:
+:hourglass: Keep track of your expenses and income.
+:email: User authorization via Gmail.
+:date: Create statistics of expenses and incomes for the selected period.
+
+:white_check_mark: Responsive design for use on phone :iphone:, tablet and desktop :computer:.
 
 
-### Backend [<img src="https://img.shields.io/badge/-Petro Davydov-black "/>](https://github.com/petroDavydov/)
+_______________
 
-### Backend [<img src="https://img.shields.io/badge/-Kovalenko Anna-red"/>](https://github.com/Kovganna/)
+ ### Team lead - [<img src="https://img.shields.io/badge/-Evgeniya Bayda-orange "/>](https://github.com/Evgeniya-star-35/) 
+ * Frontend
+### Scrum master - [<img src="https://img.shields.io/badge/-Petro Davydov-black "/>](https://github.com/petroDavydov/) 
+* Backend
 
-### Backend [<img src="https://img.shields.io/badge/-Vlad Gonchar-violet"/>](https://github.com/EclipsoZhuk/)
+### Create endpoint documentation swagger-ui - [<img src="https://img.shields.io/badge/-Nikolai Grebenyuk-blue "/>](https://github.com/Nikolayhous/)
+* Backend
 
-### Frontend [<img src="https://img.shields.io/badge/-Jane Babina-yellow "/>](https://github.com/Kelenella/)
+###  [<img src="https://img.shields.io/badge/-Kovalenko Anna-red"/>](https://github.com/Kovganna/)
+* Backend
+###  [<img src="https://img.shields.io/badge/-Vlad Gonchar-violet"/>](https://github.com/EclipsoZhuk/)
 
-### Frontend [<img src="https://img.shields.io/badge/-Evgeniya Bayda-orange "/>](https://github.com/Evgeniya-star-35/)
+* Backend
+### [<img src="https://img.shields.io/badge/-Jane Babina-yellow "/>](https://github.com/Kelenella/)
+* Frontend
 
-### Frontend [<img src="https://img.shields.io/badge/-Tatiana Blizniukova-green "/>](https://github.com/Tatiana37/)
+###  [<img src="https://img.shields.io/badge/-Tatiana Blizniukova-green "/>](https://github.com/Tatiana37/)
+* Frontend
+###  [<img src="https://img.shields.io/badge/-Tanya Melnyk-blue"/>](https://github.com/tanyamelnyk19/)
+* Frontend
+### [<img src="https://img.shields.io/badge/-Mariia Melychyn-pink "/>](https://github.com/MariiaMelychyn/)
+* Frontend
 
-### Frontend [<img src="https://img.shields.io/badge/-Tanya Melnyk-blue"/>](https://github.com/tanyamelnyk19/)
+### [<img src="https://img.shields.io/badge/-Marta Pryiom-brown "/>](https://github.com/marta-pryiom/)
+* Frontend
 
-### Frontend [<img src="https://img.shields.io/badge/-Mariia Melychyn-pink "/>](https://github.com/MariiaMelychyn/)
+### [<img src="https://img.shields.io/badge/-Oksana Petryshyn-gray "/>](https://github.com/Oksana07/)
 
-### Frontend [<img src="https://img.shields.io/badge/-Marta Pryiom-brown "/>](https://github.com/marta-pryiom/)
-
-### Frontend [<img src="https://img.shields.io/badge/-Oksana Petryshyn-gray "/>](https://github.com/Oksana07/)
 
 
 
