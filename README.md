@@ -6,17 +6,8 @@
 <h2 align="center"><a  href="https://finally-react-project.netlify.app/">Application page </a></h2>
 <h2 align="center"><a  href="https://finally-node.herokuapp.com/api-docs/#/">API server</a></h2>
 
-<img src="https://img.shields.io/badge/React-%5E17.0.2-%2333E0FF"/>
-<img src="https://img.shields.io/badge/Redux-%5E4.1.0-%236944E7"/>
-<img src="https://img.shields.io/badge/Css-Modules-%23EC83D4"/>
-<img src="https://img.shields.io/badge/JavaScript-ES8-aqua"/>
-<img src="https://img.shields.io/badge/-Nodejs-brightgreen"/>
-<img src="https://img.shields.io/badge/-nodemailer-%2344ACE7"/>
-<img src="https://img.shields.io/badge/-swagger--ui--express-%2338FF50"/>
-<img src="https://img.shields.io/badge/-Cloudinary-%234B64F2"/>
-<img src="https://img.shields.io/badge/-MongoDB-green"/>
-<img src="https://img.shields.io/badge/-GitHub-black"/>
-</p>
+<img src="https://img.shields.io/badge/React-%5E17.0.2-%2333E0FF"/><img src="https://img.shields.io/badge/Redux-%5E4.1.0-%236944E7"/><img src="https://img.shields.io/badge/Css-Modules-%23EC83D4"/><img src="https://img.shields.io/badge/JavaScript-ES8-aqua"/><img src="https://img.shields.io/badge/-Nodejs-brightgreen"/><img src="https://img.shields.io/badge/-nodemailer-%2344ACE7"/><img src="https://img.shields.io/badge/-swagger--ui--express-%2338FF50"/><img src="https://img.shields.io/badge/-Cloudinary-%234B64F2"/><img src="https://img.shields.io/badge/-MongoDB-green"/><img src="https://img.shields.io/badge/-GitHub-black"/>
+
 
 
 ## Description
