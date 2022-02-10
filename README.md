@@ -35,7 +35,9 @@ ________
 
 The Web App provides the following functions:
 :hourglass: Keep track of your expenses and income.
+
 :email: User authorization via Gmail.
+
 :date: Create statistics of expenses and incomes for the selected period.
 
 :white_check_mark: Responsive design for use on phone :iphone:, tablet and desktop :computer:.
