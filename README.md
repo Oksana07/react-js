@@ -1,14 +1,11 @@
-
-![](https://cdn-icons.flaticon.com/png/128/3639/premium/3639404.png?token=exp=1644439860~hmac=45753d5359f7cd193c60cf83487874df) ![](https://raw.githubusercontent.com/Evgeniya-star-35/finally-react/main/src/images/title.png)
-
-:cake: :fork_and_knife: :pizza: :hamburger: :cocktail: :book: :palm_tree: :gift: :pill::books: :bicyclist: :car: :art: :necktie: :train: :airplane: :house: :hotel: :scissors: :soccer: :credit_card: :dollar: :euro: :wrench: :computer: :cake: :pizza: :hamburger: :palm_tree::scissors: :car: :bicyclist: 
+![$](https://cdn-icons.flaticon.com/png/128/3639/premium/3639404.png?token=exp=1644439860~hmac=45753d5359f7cd193c60cf83487874df)![title](https://raw.githubusercontent.com/Evgeniya-star-35/finally-react/main/src/images/title.png)
+____
+:cake: :fork_and_knife: :pizza: :hamburger: :cocktail: :book: :palm_tree: :gift: :pill::books: :bicyclist: :car: :art: :necktie: :train: :airplane: :house: :hotel: :scissors: :soccer: :credit_card: :dollar: :euro: :wrench: :computer: :cake: :pizza: :hamburger: :palm_tree:
 
 <h2 align="center"><a  href="https://finally-react-project.netlify.app/">Application page </a></h2>
 <h2 align="center"><a  href="https://finally-node.herokuapp.com/api-docs/#/">API server</a></h2>
 
 <img src="https://img.shields.io/badge/React-%5E17.0.2-%2333E0FF"/><img src="https://img.shields.io/badge/Redux-%5E4.1.0-%236944E7"/><img src="https://img.shields.io/badge/Css-Modules-%23EC83D4"/><img src="https://img.shields.io/badge/JavaScript-ES8-aqua"/><img src="https://img.shields.io/badge/-Nodejs-brightgreen"/><img src="https://img.shields.io/badge/-nodemailer-%2344ACE7"/><img src="https://img.shields.io/badge/-swagger--ui--express-%2338FF50"/><img src="https://img.shields.io/badge/-Cloudinary-%234B64F2"/><img src="https://img.shields.io/badge/-MongoDB-green"/><img src="https://img.shields.io/badge/-GitHub-black"/>
-
-
 
 ## Description
 
@@ -30,7 +27,9 @@ and
 [<img src="https://img.shields.io/badge/-MongoDB-green"/>](https://www.mongodb.com/)
 
 ________
+
 ## Features of Kapu$ta app
+
  [<img src="https://img.shields.io/badge/-Kapysta-green"/>](https://finally-react-project.netlify.app/) is the Web app for calculating your finances.
 
 The Web App provides the following functions:
@@ -42,17 +41,15 @@ The Web App provides the following functions:
 :date: Create statistics of expenses and incomes for the selected period.
 
 :white_check_mark: Responsive design for use on phone :iphone:, tablet and desktop :computer:.
-
-
 _______________
 
- ### Team lead - [<img src="https://img.shields.io/badge/-Evgeniya Bayda-orange "/>](https://github.com/Evgeniya-star-35/) 
+## Team lead - Evgeniya Bayda [<img src="https://img.shields.io/badge/-GitHub-black"/>](<https://github.com/Evgeniya-star-35 />)
 
 * Error correction, conflict resolution when merging branches into a master, technical and moral support of project team members 24/7.
 
 * Deployed server (error detection, CORS, module connection structure.
 
- * The layout and styles of the "Current Period" component, when you click on the arrows, the moon changes in both directions.
+* The layout and styles of the "Current Period" component, when you click on the arrows, the moon changes in both directions.
 
 * Implemented by pressing the "Enter" data from the inputs are written to the table and sent back, and the inputs are cleared.
 
@@ -62,7 +59,7 @@ _______________
 
 * Implemented a pop-up list of product categories.
 
-### Scrum master - [<img src="https://img.shields.io/badge/-Petro Davydov-black "/>](https://github.com/petroDavydov/) 
+### Scrum master - [<img src="https://img.shields.io/badge/-Petro Davydov-black "/>](https://github.com/petroDavydov/)
 
 * Assistance to team members, support for Trello, organization of daily meetings.
 
@@ -94,7 +91,7 @@ _______________
 
 * Implemented endpoint authentication.
 
-### Backend - [<img src="https://img.shields.io/badge/-Vlad Gonchar-violet"/>](https://github.com/EclipsoZhuk/)
+### Backend - [<img src="https://img.shields.io/badge/-Vlad Gonchar-blue"/>](https://github.com/EclipsoZhuk/)
 
 * The layout and styles of the Current Period component, when you click on the arrows, the moon changes in both directions.
 
@@ -103,7 +100,8 @@ _______________
 * Enter detailed endpoint information on costs and revenues for a specific month and year.
 
 * Implemented endpoint authentication.
-### Frontend - [<img src="https://img.shields.io/badge/-Jane Babina-yellow "/>](https://github.com/Kelenella/)
+
+### Frontend - [<img src="https://img.shields.io/badge/-Jane Babina-red "/>](https://github.com/Kelenella/)
 
 * Implemented button "Enter" input data is written to the table and sent back, and inputs are cleared.
 
@@ -122,7 +120,8 @@ _______________
 * Layout and styles of back button components.
 
 ### Frontend - [<img src="https://img.shields.io/badge/-Tatiana Blizniukova-green "/>](https://github.com/Tatiana37/)
-  *  Summary Layout and Styles
+
+* Summary Layout and Styles
 
 ### Frontend - [<img src="https://img.shields.io/badge/-Tanya Melnyk-blue"/>](https://github.com/tanyamelnyk19/)
 
@@ -132,7 +131,7 @@ _______________
 
 * Implemented "Go to Reports" button, you will go to the page "Cost Reports".
 
-### Frontend - [<img src="https://img.shields.io/badge/-Mariia Melychyn-pink "/>](https://github.com/MariiaMelychyn/)
+### Frontend - [<img src="https://img.shields.io/badge/-Mariia Melychyn-orange "/>](https://github.com/MariiaMelychyn/)
 
 * Login and registration window layout and styles (phone, tablet and desktop).
 
