@@ -43,7 +43,7 @@ The Web App provides the following functions:
 :white_check_mark: Responsive design for use on phone :iphone:, tablet and desktop :computer:.
 _______________
 
-## Team lead - Evgeniya Bayda [<img src="https://img.shields.io/badge/-GitHub-black"/>](<https://github.com/Evgeniya-star-35 />)
+## Team lead - Evgeniya Bayda [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Evgeniya-star-35)
 
 * Error correction, conflict resolution when merging branches into a master, technical and moral support of project team members 24/7.
 
