@@ -59,7 +59,7 @@ _______________
 
 * Implemented a pop-up list of product categories.
 
-### Scrum master - [<img src="https://img.shields.io/badge/-Petro Davydov-black "/>](https://github.com/petroDavydov/)
+## Scrum master - Petro Davydov [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/petroDavydov/)
 
 * Assistance to team members, support for Trello, organization of daily meetings.
 
@@ -69,7 +69,7 @@ _______________
 
 * The layout and styles of the "Current Period" component, when you click on the arrows, the moon should change in both directions.
 
-### Backend - [<img src="https://img.shields.io/badge/-Nikolai Grebenyuk-blue "/>](https://github.com/Nikolayhous/)
+## Backend - Nikolai Grebenyuk [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Nikolayhous/)
 
 * Implemented deletion of endpoint transactions.
 
@@ -82,8 +82,7 @@ _______________
 * addCard + 1. User model.
 
 * End-user balance and end-user balance updates have been introduced.
-
-### Backend - [<img src="https://img.shields.io/badge/-Kovalenko Anna-red"/>](https://github.com/Kovganna/)
+## Backend - Kovalenko Anna [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Kovganna/)
 
 * Implemented an endpoint.
 
@@ -91,7 +90,7 @@ _______________
 
 * Implemented endpoint authentication.
 
-### Backend - [<img src="https://img.shields.io/badge/-Vlad Gonchar-blue"/>](https://github.com/EclipsoZhuk/)
+## Backend - Vlad Gonchar [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/EclipsoZhuk/)
 
 * The layout and styles of the Current Period component, when you click on the arrows, the moon changes in both directions.
 
@@ -101,29 +100,32 @@ _______________
 
 * Implemented endpoint authentication.
 
-### Frontend - [<img src="https://img.shields.io/badge/-Jane Babina-red "/>](https://github.com/Kelenella/)
+## Frontend - Jane Babina  [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Kelenella/)
 
 * Implemented button "Enter" input data is written to the table and sent back, and inputs are cleared.
-
+  
 * Added a pop-up window for product categories.
-
+  
 * Login and exit markup and heading styles (phone, tablet, and computer).
-
+  
 * Clicking the "Clear" button clears the entered data.
-
+  
 * A universal modal output window has been created.
-
+  
 * Implemented the logic of exiting the profile by clicking "Exit".
-
+  
 * Added a popup window for product categories.
-
+  
 * Layout and styles of back button components.
-
-### Frontend - [<img src="https://img.shields.io/badge/-Tatiana Blizniukova-green "/>](https://github.com/Tatiana37/)
+## Frontend - Tatiana Blizniukova [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Tatiana37/)
 
 * Summary Layout and Styles
+  
+* Resume data comes from Backend
+  
+* If a positive amount is entered in the "Expenses" section, a negative amount is displayed in the table
 
-### Frontend - [<img src="https://img.shields.io/badge/-Tanya Melnyk-blue"/>](https://github.com/tanyamelnyk19/)
+## Frontend - Tanya Melnyk [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/tanyamelnyk19/)
 
 * Cost and Revenue Page Layouts and Styles (Phone, Tablet, Computer)
 
@@ -131,7 +133,7 @@ _______________
 
 * Implemented "Go to Reports" button, you will go to the page "Cost Reports".
 
-### Frontend - [<img src="https://img.shields.io/badge/-Mariia Melychyn-orange "/>](https://github.com/MariiaMelychyn/)
+## Frontend - Mariia Melychyn [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/MariiaMelychyn/)
 
 * Login and registration window layout and styles (phone, tablet and desktop).
 
@@ -139,7 +141,7 @@ _______________
 
 * Functionality of sending a request for user login / registration.
 
-### Frontend - [<img src="https://img.shields.io/badge/-Marta Pryiom-brown "/>](https://github.com/marta-pryiom/)
+## Frontend - Marta Pryiom [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/marta-pryiom/)
 
 * Symbols and background for all pages when the user logs in and out of the program (phone, tablet and computer).
 
@@ -147,7 +149,7 @@ _______________
 
 * Implemented a modal window on zero balance
 
-### Frontend - [<img src="https://img.shields.io/badge/-Oksana Petryshyn-gray "/>](https://github.com/Oksana07/)
+## Frontend - Oksana Petryshyn [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Oksana07/)
 
 * Summary Layout and Styles.
 * Writing documentation readme on markdown.
