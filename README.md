@@ -7,11 +7,22 @@ ____
 
 ## Technologies used
 
-<img src="https://img.shields.io/badge/React-%5E17.0.2-%2333E0FF"/><img src="https://img.shields.io/badge/ReduxToolkit-%236944E7"/><img src="https://img.shields.io/badge/-Axios-black"/><img src="https://img.shields.io/badge/Css-Modules-%23EC83D4"/><img src="https://img.shields.io/badge/LightBox-%2338FF50"/><img src="https://img.shields.io/badge/-Animate.css-black"/>
-<img src="https://img.shields.io/badge/JavaScript-ES8-aqua"/>
-<img src="https://img.shields.io/badge/Chart.js-%2338FF50"/><img src="https://img.shields.io/badge/-Formik-black"/>
-<img src="https://img.shields.io/badge/-Nodejs-brightgreen"/><img src="https://img.shields.io/badge/-Mongoose-%2344ACE7"/><img src="https://img.shields.io/badge/-swagger--ui--express-%2338FF50"/><img src="https://img.shields.io/badge/-Cloudinary-%234B64F2"/><img src="https://img.shields.io/badge/-MongoDB-green"/>
-<img src="https://img.shields.io/badge/Jsonwebtoken-aqua"/>
+[<img src="https://img.shields.io/badge/-React-%2333E0FF"/>](https://reactjs.org/)
+[<img src="https://img.shields.io/badge/ReduxToolkit-%236944E7"/>](https://redux-toolkit.js.org/)
+
+[<img src="https://img.shields.io/badge/-Axios-black"/>](https://www.npmjs.com/package/axios)
+<img src="https://img.shields.io/badge/css-Modules-%23EC83D4"/>
+[<img src="https://img.shields.io/badge/LightBox-%2338FF50"/>](https://lokeshdhakar.com/projects/lightbox2/)
+[<img src="https://img.shields.io/badge/-Animate.css-black"/>](https://animate.style/)
+[<img src="https://img.shields.io/badge/JavaScript-ES8-aqua"/>](https://habr.com/ru/post/332900/)
+[<img src="https://img.shields.io/badge/Chart.js-%2338FF50"/>](https://www.chartjs.org/docs/latest/)
+[<img src="https://img.shields.io/badge/-Formik-black"/>](https://formik.org/)
+[<img src="https://img.shields.io/badge/-Nodejs-brightgreen"/>](https://nodejs.org/uk/)
+[<img src="https://img.shields.io/badge/-Mongoose-%2344ACE7"/>](https://mongoosejs.com/)
+[<img src="https://img.shields.io/badge/-swagger--ui--express-%2338FF50"/>](https://swagger.io/)
+[<img src="https://img.shields.io/badge/-Cloudinary-%234B64F2"/>](https://cloudinary.com/)
+[<img src="https://img.shields.io/badge/-MongoDB-green"/>](https://www.mongodb.com/)
+[<img src="https://img.shields.io/badge/Jsonwebtoken-aqua"/>](https://www.npmjs.com/package/jsonwebtoken)
 
 ____
 ## Utilites
