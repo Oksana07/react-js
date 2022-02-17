@@ -9,7 +9,6 @@ ____
 
 [<img src="https://img.shields.io/badge/-React-%2333E0FF"/>](https://reactjs.org/)
 [<img src="https://img.shields.io/badge/ReduxToolkit-%236944E7"/>](https://redux-toolkit.js.org/)
-
 [<img src="https://img.shields.io/badge/-Axios-black"/>](https://www.npmjs.com/package/axios)
 <img src="https://img.shields.io/badge/css-Modules-%23EC83D4"/>
 [<img src="https://img.shields.io/badge/LightBox-%2338FF50"/>](https://lokeshdhakar.com/projects/lightbox2/)
