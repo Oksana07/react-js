@@ -4,7 +4,6 @@ ____
 
 <h2 align="center"><a  href="https://finally-react-project.netlify.app/">Application page </a></h2>
 <h2 align="center"><a  href="https://finally-node.herokuapp.com/api-docs/#/">API server</a></h2>
-_______________________________________
 
 ## Technologies used
 
@@ -37,12 +36,6 @@ with using
 [<img src="https://img.shields.io/badge/-Cloudinary-%234B64F2"/>](https://cloudinary.com/) & [<img src="https://img.shields.io/badge/-Gravatar-%234B64F2"/>](https://uk.gravatar.com/)
 and
 [<img src="https://img.shields.io/badge/-MongoDB-green"/>](https://www.mongodb.com/) & [<img src="https://img.shields.io/badge/-Mongoose-green"/>](https://mongoosejs.com/)
-
-
-Mongoose
-
-
-Jsonwebtoken
 
 ________
 
