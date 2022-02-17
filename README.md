@@ -4,8 +4,20 @@ ____
 
 <h2 align="center"><a  href="https://finally-react-project.netlify.app/">Application page </a></h2>
 <h2 align="center"><a  href="https://finally-node.herokuapp.com/api-docs/#/">API server</a></h2>
+_______________________________________
 
-<img src="https://img.shields.io/badge/React-%5E17.0.2-%2333E0FF"/><img src="https://img.shields.io/badge/Redux-%5E4.1.0-%236944E7"/><img src="https://img.shields.io/badge/Css-Modules-%23EC83D4"/><img src="https://img.shields.io/badge/JavaScript-ES8-aqua"/><img src="https://img.shields.io/badge/-Nodejs-brightgreen"/><img src="https://img.shields.io/badge/-nodemailer-%2344ACE7"/><img src="https://img.shields.io/badge/-swagger--ui--express-%2338FF50"/><img src="https://img.shields.io/badge/-Cloudinary-%234B64F2"/><img src="https://img.shields.io/badge/-MongoDB-green"/><img src="https://img.shields.io/badge/-GitHub-black"/>
+## Technologies used
+
+<img src="https://img.shields.io/badge/React-%5E17.0.2-%2333E0FF"/><img src="https://img.shields.io/badge/ReduxToolkit-%236944E7"/><img src="https://img.shields.io/badge/-Axios-black"/><img src="https://img.shields.io/badge/Css-Modules-%23EC83D4"/><img src="https://img.shields.io/badge/LightBox-%2338FF50"/><img src="https://img.shields.io/badge/-Animate.css-black"/>
+<img src="https://img.shields.io/badge/JavaScript-ES8-aqua"/>
+<img src="https://img.shields.io/badge/Chart.js-%2338FF50"/><img src="https://img.shields.io/badge/-Formik-black"/>
+<img src="https://img.shields.io/badge/-Nodejs-brightgreen"/><img src="https://img.shields.io/badge/-Mongoose-%2344ACE7"/><img src="https://img.shields.io/badge/-swagger--ui--express-%2338FF50"/><img src="https://img.shields.io/badge/-Cloudinary-%234B64F2"/><img src="https://img.shields.io/badge/-MongoDB-green"/>
+<img src="https://img.shields.io/badge/Jsonwebtoken-aqua"/>
+
+____
+## Utilites
+<img src="https://img.shields.io/badge/-Figma-black"/>  <img src="https://img.shields.io/badge/Git-GitHub-aqua"/>  <img src="https://img.shields.io/badge/Postman-orange" />  <img src="https://img.shields.io/badge/-VSCode-%236944E7"/>
+
 
 ## Description
 
@@ -15,16 +27,22 @@ Graduation team project of students the FullStack developer course
 <b>Frontend</b> is written on
 [<img src="https://img.shields.io/badge/-React-%2333E0FF"/>](https://reactjs.org/)
 with using
-[<img src="https://img.shields.io/badge/-Redux-%236944E7"/>](https://redux.js.org/).
+[<img src="https://img.shields.io/badge/-ReduxToolkit-%236944E7"/>](https://redux-toolkit.js.org/).
 
 <b>Backend</b> is written on
 [<img src="https://img.shields.io/badge/-Nodejs-brightgreen"/>](https://nodejs.org/uk/)
 with using
-[<img src="https://img.shields.io/badge/-nodemailer-%2344ACE7"/>](https://nodemailer.com/about/),
+[<img src="https://img.shields.io/badge/-Express-%2344ACE7"/>](https://expressjs.com/ru/),
 [<img src="https://img.shields.io/badge/-swagger--ui--express-%2338FF50"/>](https://swagger.io/),
-[<img src="https://img.shields.io/badge/-Cloudinary-%234B64F2"/>](https://cloudinary.com/)
+[<img src="https://img.shields.io/badge/-Cloudinary-%234B64F2"/>](https://cloudinary.com/) & [<img src="https://img.shields.io/badge/-Gravatar-%234B64F2"/>](https://uk.gravatar.com/)
 and
-[<img src="https://img.shields.io/badge/-MongoDB-green"/>](https://www.mongodb.com/)
+[<img src="https://img.shields.io/badge/-MongoDB-green"/>](https://www.mongodb.com/) & [<img src="https://img.shields.io/badge/-Mongoose-green"/>](https://mongoosejs.com/)
+
+
+Mongoose
+
+
+Jsonwebtoken
 
 ________
 
