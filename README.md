@@ -69,7 +69,7 @@ _______________
 
 * The layout and styles of the "Current Period" component, when you click on the arrows, the moon should change in both directions.
 
-## Backend - Nikolai Grebenyuk [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Nikolayhous/)
+## Developer - Nikolai Grebenyuk [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Nikolayhous/)
 
 * Login functionality/registration via the "Google" button.
 
@@ -94,7 +94,7 @@ _______________
 * Implemented a graph that visually displays the expenses and incomes of the selected category (phone, tablet, desktop).
 
 * Implemented Model of User.
-## Backend - Kovalenko Anna [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Kovganna/)
+## Developer - Kovalenko Anna [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Kovganna/)
 
 * Implemented registration endpoint.
 
@@ -120,7 +120,7 @@ _______________
 
 * Arrows in the "Expenses" and "Incomes" sections switch the user between these pages.
 
-## Backend - Vlad Gonchar [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/EclipsoZhuk/)
+## Developer - Vlad Gonchar [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/EclipsoZhuk/)
 
 * Implemented a registration endpoint.
 
@@ -136,7 +136,7 @@ _______________
 
 * Markup and styles of the "Current period" component, when you click on the arrows, change the month in both directions. 
 
-## Frontend - Jane Babina  [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Kelenella/)
+## Developer - Jane Babina  [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Kelenella/)
 
 * Markup and styles of the header during login and its absence (phone, tablet and desktop).
   
@@ -156,7 +156,7 @@ _______________
 
 * Implemented a chart that visually displays the expenses and incomes of the selected category (phone, tablet, desktop).
 
-## Frontend - Tatiana Blizniukova [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Tatiana37/)
+## Developer - Tatiana Blizniukova [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Tatiana37/)
 
 * Implemented showing today's date.
   
@@ -168,7 +168,7 @@ _______________
 
 * Paver-point presentation.
 
-## Frontend - Tanya Melnyk [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/tanyamelnyk19/)
+## Developer - Tanya Melnyk [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/tanyamelnyk19/)
 
 * Implemented when clicking on the "Go to reports" button, it redirects to the Expense Reports page.
 
@@ -184,7 +184,7 @@ _______________
 
 * Arrows in the "Expenses" and "Incomes" sections switch the user between these pages.
 
-## Frontend - Mariia Melychyn [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/MariiaMelychyn/)
+## Developer - Mariia Melychyn [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/MariiaMelychyn/)
 
 * Markup and styles of the login window/
 registration (phone, tablet and desktop).
@@ -195,7 +195,7 @@ registration (phone, tablet and desktop).
 
 * Footer and Modal.
 
-## Frontend - Marta Pryiom [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/marta-pryiom/)
+## Developer - Marta Pryiom [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/marta-pryiom/)
 
 * Markup and background for all pages when the user is logged in and not (phone, tablet and desktop).
 
@@ -209,7 +209,7 @@ registration (phone, tablet and desktop).
 
 * Data in the summary is pulled from the back.
 
-## Frontend - Oksana Petryshyn [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Oksana07/)
+## Developer - Oksana Petryshyn [<img src="https://img.shields.io/badge/-GitHub-black"/>](https://github.com/Oksana07/)
 
 * Summary Layout and Styles.
   
